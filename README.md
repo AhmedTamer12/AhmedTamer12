@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AhmedTamer12
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning python
